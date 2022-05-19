@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jared-Loosely-Canon
-- 👀 I’m a freelancing Salesforce Consultant and a Salesforce Developer at Centerboard
-- 🌱 I’m currently working on a Dynamic Highlight Panel using Lightning Web Componets that can move with the users screen as they scroll through the details of their record page
-- 💞️ I’m looking to build my business as a freelancer
+- 👀 I’m the owner of Loosely Canon and its primary Salesforce Consultant.
+- 🌱 I’m currently consulting my client at Fast Property Solutions by aiding their journey in using Salesforce for their real etate business.
+- 💞️ I’m looking to build my business as a consultant
 - 📫 How to reach me ... https://looselycanon.com/
 
 <!---
